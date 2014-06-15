@@ -1,0 +1,27 @@
+﻿Build started 15.6.2014. 19:17:05.
+     1>Project "c:\Users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Projekt2C\Projekt2C.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Projekt2C.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Projekt2C.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Projekt2C.cpp
+         Projekt2C.cpp
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(10): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(127): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(135): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mornfubro\documents\visual studio 2012\projects\projekt2c\projekt2c\projekt2c.cpp(137): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Debug\Projekt2C.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Debug\Projekt2C.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Debug\Projekt2C.lib" /MACHINE:X86 Debug\Projekt2C.obj
+         Debug\stdafx.obj
+         Projekt2C.vcxproj -> c:\users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Debug\Projekt2C.exe
+     1>Done Building Project "c:\Users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Projekt2C\Projekt2C.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.13

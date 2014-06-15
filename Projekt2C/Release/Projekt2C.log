@@ -1,0 +1,11 @@
+﻿Build started 15.6.2014. 19:21:35.
+     1>Project "c:\Users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Projekt2C\Projekt2C.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Projekt2C.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Projekt2.cpp
+         Projekt2.cpp
+     1>Projekt2.cpp(169): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "c:\Users\mornfubro\documents\visual studio 2012\Projects\Projekt2C\Projekt2C\Projekt2C.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.22
